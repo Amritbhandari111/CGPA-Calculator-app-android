@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace 'com.example.cgpacalculator'
-    compileSdk 34git
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.example.cgpacalculator"
